@@ -1,4 +1,4 @@
-# 
+# Mis à jour Yi-Lightning plugins. Avec pipelines de données et modèles hybrides d'IA — optimisé pour des performances et une efficacité maximales.
 
 
 
